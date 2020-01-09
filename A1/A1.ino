@@ -1,6 +1,3 @@
-//Yvan Gihoza
-//010785599
-//CSCE 4013 Assignment #1
 
 #include <Servo.h>
 
